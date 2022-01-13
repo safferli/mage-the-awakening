@@ -1,0 +1,24 @@
+flowchart TD
+
+    %% MtA p. 325
+    S1[Choose Spell]
+    S2[Choose Casting Method]
+    subgraph Method [nameit]
+        M1[Improvised]
+        M2[Rote]
+        M3[Praxis]
+    end
+    S3[Assign Reach]
+    S4[Set Spell Factors]
+    S5[Determine Yantras]
+    S6[Check Dice Pool]
+    S7[Pay Mana]
+    S8[Paradox]
+    S9[Roll Spellcasting]
+
+    %% Link all steps
+    S1 --> M1 --> S2
+    S1 --> M2 --> S2
+    S2 --> S3 --> S4 --> S5 --> S6 --> S7 --> S8 --> S9
+
+%%

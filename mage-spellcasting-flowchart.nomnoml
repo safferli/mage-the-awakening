@@ -1,0 +1,43 @@
+[Choose Spell] -> [<frame>choose-casting-method|
+  [Improvised]
+  [Rote]
+  [Praxis]
+]
+
+[choose-casting-method] -> [assign Reach|
+Free reach: 1+(Arcanum - Spell Arcanum)
+Any more: +Paradox dice according to Gnosis
+]
+
+[assign Reach] -> [<frame>Set Spell factors|
+Reach to go to Advanced;
+After penalties: increase primary spell factor by (Arcanum -1)|
+[Casting Time]
+[Range]
+[Potency]
+[Duration]
+[Scale]
+]
+
+[Set Spell factors] -> [Determine Yantras|
+up to Gnosis limit;
+only one Yantra can be reflexive]
+
+[Determine Yantras] -> [Check dice pool|
+Ritual casting: +1 per ritual interval (max +5)]
+
+[Check dice pool] -> [Pay Mana|
+Common or Inferior Arcanum;
+Indefinite duration;
+mitigate Paradox]
+
+[Pay Mana] -> [Paradox|
+skip only if never had die added, otherwise Chance Die|
+[<table>]
+]
+
+[Check dice pool] <-- [<note>check dicepool]
+[check dicepool] <-- [Roll Spellcasting]
+
+[Paradox] -> [Roll Spellcasting|
+include penalties from Paradox]

@@ -1,0 +1,85 @@
+= Mage: the Awakening Vocabulary
+:title: Mage: the Awakening Vocabulary
+:author: Christoph Safferling
+:!toc:
+
+:test: variable text
+
+This is my attempt at getting to know the Mage: the Awakening (2nd ed.) vocabulary.
+
+The core book seems to be written for people that already know the content, so I needed a few read-throughs of the relevant chapters to get to this list. Maybe it's helpful for others, too.
+
+I'm more familiar with _Ars Magica_ and this list is an attempt to wrap my mind around Mage with an Ars background.
+
+== Magic vocabulary
+
+Improvised Spell::
+_(Ars: Spontaneous casting)_ +
+This is the Mage "standard" spell casting setup. The mage thinks of an effect and wills it into being. Ars readers beware: every spell in Mage is a ritual spell, so even Improvised spells are be rituals.
+
+Praxis::
+_(Ars: roughly a mix of Formularic casting and Mastered spells)_ +
+A spell the mage is uniquely familiar with and thus finds it easier to achieve greater success with.
+
+[[rote]]Rote::
+_(Ars: roughly equivalent to a Mastered spell)_ +
+A specific version of a spell that the mage can recall at ease. Rotes can be written into a xref:grimoire[].
+
+[[yantra]]Yantra::
+_(Ars: a combination of Words and Gestures casting penalties and Shape and Material bonuses)_ +
+Magical shorthand to help the mage focus on casting the spell. Note that Mage only knows bonuses for Yantras, so you do not get penalties for not using Words when spellcasting, but rather a bonus when you _do_.
+
+Mudra::
+Mnemonic techniques taught by _Orders_ connecting a Rote with a Rote Skill. Mechanically, they allow the use of that Rote Skill as a _Yantra_.
+
+Mantra::
+_(Ars: Words casting penalties inverted: using them is a bonus)_ +
+The act of using xref:high-speech[] as a xref:yantra[].
+
+[[grimoire]]Grimoire::
+_(Ars: roughly Lab Texts for spells and Casting Tablets)_ +
+xref:rote[Rotes] written into physical form by using the Prime xref:arcanum[Arcanum]. This allows mages to learn the Rotes (Grimoires as Lab Texts), and also to cast the Rote if they know the Arcanum (Grimoires as Casting Tablets).
+
+[[high-speech]]High Speech::
+_(Ars: the magical version of Latin)_ +
+High Speech is the meta-language of the xref:supernal[].
+
+
+
+== Spell aspects
+
+Imago::
+The "mental image" of a spell; the thing a mage imagines and then wills into being.
+
+Spell Factors::
+  Potency::: bla
+  Duration::: asdf
+  Scale::: asdf
+  Range::: asdf
+Attainments::
+Attainments are magical effects, similar to spells but not subject to the same rules
+
+
+Reach:: asdf
+Ritual Casting:: asdf
+Mana:: asdf
+Tass:: asdf
+Quiescence:: asdf
+[[arcanum]]Arcanum (pl. Arcana)::  _(Ars: Arts)_ +
+Paradox:: asdf
+Nimbus:: asdf
+Sympathy:: Arcane Connections
+
+== Other
+
+Hallow:: asdf
+Essence:: asdf
+Demesne:: asdf
+Dissonance:: asdf
+Sympathy:: asdf
+[[supernal]]Supernal:: asdf
+
+
+
+
+{test}
